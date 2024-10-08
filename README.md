@@ -1,5 +1,5 @@
 <h1 align="center">
- Quiz Tango
+ Quiz Verse
 </h1>
 
 <h2 align="center">
